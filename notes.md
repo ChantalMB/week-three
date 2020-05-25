@@ -45,14 +45,14 @@
     - Actual download is a JSON file --> quick script that could auto-visualize this file upon opening?
 - Network Analysis in Python
   - Activity was well explained so no problems encountered
-  - I like python best for network analysis --> can create a comprehensive program that only has to be run correspondence
+  - I like python best for network analysis --> can create a comprehensive program that only has to be run once
   - Analysis and code feels connected/comprehensive
 
 
 ### Bonus Activity
-- Have a feeling I'm going to like this more than either of the programs previously used
 - Installing igraph took seconds for me but the comment ```# install igraph; this might take a long time``` is making me suspicious
 - I like this style of step-by-step teaching through comments
 - R reminds me of Processing almost, but for data --> Processing to visualize data?
 - Still not pleased with readability of data but this is better --> zoom in to read
+  - Like the ability to customize output
   - Way to make it more spread out?
